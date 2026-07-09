@@ -10,7 +10,7 @@
     <TimesToRun>3</TimesToRun>
   </TestInformation>
   <TestProfile>
-    <Version>7.1.0</Version>
+    <Version>7.0.2</Version>
     <SupportedPlatforms>Linux</SupportedPlatforms>
     <SoftwareType>Utility</SoftwareType>
     <TestType>Processor</TestType>
